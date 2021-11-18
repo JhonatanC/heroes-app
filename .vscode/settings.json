@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d9e153cd-4c41-4271-8781-4d6dcfb7fed3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/prueba-sigra-app",
+    "appService.deploySubpath": "."
+}
